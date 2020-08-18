@@ -1,6 +1,10 @@
 ### Project Overview
-Till now you have seen that how to solve the linear regression and regularization problem. Now in this project, you are going to predict the Insurance claim using logistic regression. This dataset contains information on the insurance claim. each observation is different policyholder with various features like the age of the person, the gender of the policyholder, body mass index, providing an understanding of the body, number of children of the policyholder, smoking state of the policyholder and individual medical costs billed by health insurance.
- Why solve this project ?
+For this project we will be exploring the publicly available data from LendingClub.com. Lending Club connects people who need money (borrowers) with people who have money (investors). As an investor one would want to invest in people who showed a profile of having a high probability of paying the amount back
+
+The data that we have is from 2007-2010.
+Problem Statement
+
+Using Decision Tree model, classify whether or not the borrower paid back their loan in full. 
 
 After completing this project, you will have a better understanding of how to build a decision tree model. In this project, you will apply the following concepts.
 
